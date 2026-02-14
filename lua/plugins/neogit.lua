@@ -4,6 +4,7 @@ return {
     lazy = true,
     dependencies = { "nvim-lua/plenary.nvim" },
     cmd = "Neogit",
-    keys = { { "<leader>gg", "<cmd>Neogit<cr>", desc = "Open Neogit" } },
-  }
+    -- keys = { { "<leader>gg", "<cmd>Neogit<cr>", desc = "Open Neogit" } },
+  },
 }
+

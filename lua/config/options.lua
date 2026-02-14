@@ -7,7 +7,7 @@ vim.g.dbs = {
 }
 
 -- LazyVim auto format
-vim.g.autoformat = false
+vim.g.autoformat = true
 
 -- Identation
 vim.o.tabstop = 2 -- A TAB character looks like 4 spaces
